@@ -75,7 +75,16 @@ if selected == "Home":
     with col1:
         st.image("https://miro.medium.com/v2/resize:fit:720/format:webp/1*x94FIYwbCo7OebWU3pWh8w.png",width= 650)
     with col2:
-        st.write("hi hello")
+        st.write("Business Card Data Extraction using OCR (Optical Character Recognition) is a process that involves using technology to automatically extract relevant information from business cards. OCR technology scans the text on the business card and converts it into machine-readable data.")
+        st.write()
+        st.write("The extraction process typically involves several steps. First, the business card image is captured or uploaded into an OCR system. The OCR software then analyzes the image and identifies the text elements, such as names, phone numbers, email addresses, job titles, and company names, present on the card.")
+        st.write()
+        st.write("Once the text is recognized, the OCR system applies various techniques to extract and structure the relevant data. This may involve parsing the text using pattern recognition algorithms, natural language processing techniques, and regular expressions. The extracted data is then organized into structured formats, such as spreadsheets or databases, making it easier to store, search, and utilize.")
+        st.write()
+        st.write("Business Card Data Extraction using OCR offers several advantages. It eliminates the need for manual data entry, saving time and reducing errors. It also enables quick and efficient digitization of business card information, making it easily accessible and shareable across digital platforms. Additionally, the extracted data can be integrated with other systems or used for various purposes, such as contact management, lead generation, and networking.")
+        st.write()
+        st.write("Overall, Business Card Data Extraction using OCR streamlines the process of capturing and managing business card information, improving productivity and enhancing the accuracy and efficiency of data handling in professional settings.")
+
 
 if selected == "Upload":
     
